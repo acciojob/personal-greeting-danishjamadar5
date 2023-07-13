@@ -9,8 +9,6 @@ const App = () => {
     setName(`Hello ${e.target.value}!`);
   }
 
-
-
   return (
     <div>
       {/* Do not remove the main div */}
